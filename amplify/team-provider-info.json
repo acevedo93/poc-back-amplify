@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifybackend9e8bbba2": {}
+      },
+      "function": {
+        "usersLambda": {}
       }
     }
   }
